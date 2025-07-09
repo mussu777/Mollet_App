@@ -1,6 +1,6 @@
-<h1 align="center">💸 Mollet App(wallet app) - Expense Tracker with React Native & Express 🚀</h1>
+<h1 align="center">💸 Mollet App(wallet app) - Expense Tracker with React Native & Express </h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
+![Demo App](/Mollet_App/assets/images/screenshot-for-readme.png)
 
 
 This isn't just a front-end app — it's a **complete mobile application** with backend integration, authentication, and cloud-based storage.
