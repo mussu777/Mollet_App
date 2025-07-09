@@ -19,17 +19,6 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 - 🗑️ **Delete transactions** to update balance
 - 🚪 **Logout** to navigate back to login screen
 
----
-
-## 🧠 What You’ll Learn
-
-- ⚙️ Build and deploy an **Express API** with **PostgreSQL** using **Neon**
-- 🔐 Implement authentication & email verification with **Clerk**
-- 📲 Build a full mobile app with **React Native & Expo**
-- 🧵 Manage state and navigation using **React Navigation**
-- 🛡️ Understand and apply **Rate Limiting** using **Redis**
-- 🚀 Deploy both backend & mobile with cloud-based tools
-- 🧪 Beginner-friendly for first-time React Native devs
 
 ---
 
