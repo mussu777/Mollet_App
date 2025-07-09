@@ -9,7 +9,7 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 
 ---
 
-## 🧑‍🍳 App Features Overview
+## 🧑 App Features Overview
 
 - 🔐 **Authentication** with email verification using **Clerk**
 - 📝 **Signup & Login** flows with 6-digit email code
