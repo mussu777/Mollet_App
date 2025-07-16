@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mollet-app",
+    "scheme": "molletapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -42,7 +42,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "48fe8336-19f3-4c7a-b1a8-6407063fd66b"
+        "projectId": "dd4e2c69-3a5b-493b-9e2e-8097e8dc0de5"
       }
     }
   }
