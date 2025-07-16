@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Mollet-App",
-    "slug": "Mollet-App",
+    "name": "Mollet App",
+    "slug": "mollet-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "Mollet-App",
+    "scheme": "mollet-app",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -17,7 +17,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.mussu777.MolletApp"
+      "package": "com.mussu777.molletapp"
     },
     "web": {
       "bundler": "metro",
@@ -42,13 +42,8 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "b4a81181-1451-46bd-ac26-846b34f8fe5e"
+        "projectId": "48fe8336-19f3-4c7a-b1a8-6407063fd66b"
       }
-    },
-    "runtimeVersion": "1.0.0",
-
-    "updates": {
-      "url": "https://u.expo.dev/b4a81181-1451-46bd-ac26-846b34f8fe5e"
     }
   }
 }
